@@ -1,5 +1,7 @@
 # README
 
+API URL: easynvest.barati.com.br/investimento
+
 Utilizado .Net Core 3.1
 Utilizado Docker para facilitar o deploy no ambiente que tenho pronto com Docker
 
