@@ -1,6 +1,6 @@
 # README
 
-API URL: [easynvest.barati.com.br/investimento](http://easynvest.barati.com.br/investimento) ou [barati.com.br:8081/investimento](http://barati.com.br:8081/investimento)
+API URL: [easynvest.barati.com.br/investimento](http://easynvest.barati.com.br/investimento)
 
 Utilizado .Net Core 3.1
 
